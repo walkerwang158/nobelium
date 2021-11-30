@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Walker-Blogs',
   author: 'walker wang',
   email: 'kwang158@163.com',
-  link: 'https://walker158-nobelium.vercel.app',
+  link: 'https://nobelium-five-phi.vercel.app',
   description: 'Just do it for yourself.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
